@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.BtechForm{
+  display: inline-block;
+  background-color: aqua;
+  padding: 30px; 
+}
+
+.BtechForm label{
+  display: inline-block;
+  width: 250px;
+}
+.BtechForm div{
+  margin: 15px;
+}
